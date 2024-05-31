@@ -1,0 +1,31 @@
+
+
+
+.header{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 1000px;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    border-radius: 20px;
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(249,254,255,1) 100%);
+}
+.Inc, .Dec{
+    border-radius: 30%;
+}
+
+.main-card{
+    height: auto;
+    width: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px !important;
+    margin-right: 50px !important;
+    margin-top: 10px !important;
+}
+
+.card-title{
+    font-size: xx-large;
+}
